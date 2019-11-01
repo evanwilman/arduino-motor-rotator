@@ -1,0 +1,1 @@
+* [28BYJ48 Stepper Motor Physical Resistance Problem](https://forum.arduino.cc/index.php?topic=521545.msg3556011#msg3556011)
