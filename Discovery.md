@@ -27,9 +27,13 @@ Here's the schematics we are going to start with
 
 ![alt text][tmc2130Img]
 
+# First challenge
 
-
-
+TMC2130 doesn't seem to be the correct driver for 28BYJ-48 because it supports
+bipolar motors because they accept 4 connections as opposed to 5 connections.
+I've found ways to turn 28BYJ-48 into a bipolar but i don't really know
+the ramifications of it. SO i'll have to get the Stepper Motor - Nema 17 Stepper
+Motor Bipolar.
 
 
 [tmc2130Img]: https://raw.githubusercontent.com/opposite-bracket/arduino-motor-rotator/master/imgs/tmc2130-schematics.jpg "TMC2130 schematics"
