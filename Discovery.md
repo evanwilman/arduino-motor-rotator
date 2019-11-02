@@ -15,3 +15,21 @@ was able to run various examples. Here's a list of components we are going to be
 In terms of resources, here's what i've got so far for the software side of things
 
 * [TMC2130Stepper](https://platformio.org/lib/show/1493/TMC2130Stepper/examples)
+
+# VSCode
+
+I've got myself setup with c++ on vscode so i can try things out before i push things over to
+an arduino.
+
+# Wiring
+
+Here's the schematics we are going to start with
+
+![alt text][tmc2130Img]
+
+
+
+
+
+
+[tmc2130Img]: https://raw.githubusercontent.com/opposite-bracket/arduino-motor-rotator/master/imgs/tmc2130-schematics.jpg "TMC2130 schematics"
