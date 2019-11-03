@@ -9,11 +9,11 @@
 
 
 Power on
-  Rotate stepper motor to the left until hits end
-  Rotate stepper motor to the right five steps
-  Rotate stepper motor to the left to verify five steps is the end
-  Set 0 
-  run main code
+  1. Rotate stepper motor to the left until hits end
+  2. Rotate stepper motor to the right five steps
+  3. Rotate stepper motor to the left to verify five steps is the end
+  4. Set 0 
+  5. run main code
   
 Main code
   Speed variables 1 - 10
