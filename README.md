@@ -17,6 +17,7 @@ Power on
   
 Main code
   Speed variables 1 - 10
+  
   MM selection for slider length?
   
   1. Point A - Point B - Stop
