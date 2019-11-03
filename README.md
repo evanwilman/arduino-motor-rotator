@@ -17,6 +17,8 @@ Power on
   
 Main code
   Speed variables 1 - 10
+  MM selection for slider length?
+  
   1. Point A - Point B - Stop
   2. Point A - Point B - Point A - Stop
   3. Point A - Point B - Point A - Continuous
@@ -24,8 +26,8 @@ Main code
 LCD
   2 Lines
   4 buttons?
-  1. Speed Up
-  2. Speed Down
-  3. Start
-  4. Stop
+  1. Selection Up
+  2. Selection Down
+  3. Select/Start
+  4. Cancel/Back/Stop
   
